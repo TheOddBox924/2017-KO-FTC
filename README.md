@@ -3,5 +3,5 @@
 
 # Programmers: Pheobe, Niel, Aidan
 # Teams:
-# Ryan ~ Pheobe
-# Hyatt ~ Aidan, Niel
+# Ryan ~ Pherbe
+# Hyatt ~ Aiden, Norl
